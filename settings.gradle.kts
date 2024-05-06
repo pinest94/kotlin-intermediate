@@ -7,3 +7,4 @@ pluginManagement {
 }
 rootProject.name = "kotlin-intermediate"
 include("pinest-jackson")
+include("kotlin-reactive")
